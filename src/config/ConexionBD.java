@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
  *
  * @author Adan
  */
-public class ConexionDB {
+public class ConexionBD {
 
     private Connection conn;
 
