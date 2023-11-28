@@ -5,8 +5,7 @@
         <group>
             <file>file:/D:/NetBeansProjects/CrudPersona/src/vista/VistaPrincipal.java</file>
             <file>file:/D:/NetBeansProjects/CrudPersona/src/logica/ConsultasPersonas.java</file>
-            <file>file:/D:/NetBeansProjects/CrudPersona/src/logica/Main.java</file>
-            <file>file:/D:/NetBeansProjects/CrudPersona/src/logica/Persona.java</file>
+            <file>file:/D:/NetBeansProjects/CrudPersona/src/config/ConexionBD.java</file>
         </group>
     </open-files>
 </project-private>
